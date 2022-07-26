@@ -1070,8 +1070,8 @@ export default {
 					city: 'Portland',
 					region: 'Oregon',
 					link: 'https://www.meetup.com/Portland-Bitcoin-Group/',
-					organizer: '@Jestopher_BTC',
-					organizerLink: 'https://twitter.com/Jestopher_BTC/status/1180280435894620160'
+					organizer: '@BitcoinPortland',
+					organizerLink: 'https://twitter.com/BitcoinPortland'
 				},
 				{
 					country: 'USA',
